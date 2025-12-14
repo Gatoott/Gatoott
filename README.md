@@ -22,10 +22,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript, PHP, and basic backend concepts<br>🎯 Goals: Become a fullstack developer and build useful web apps<br>🎲 Fun fact:  I spend more time debugging than coding</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
