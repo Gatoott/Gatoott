@@ -16,6 +16,16 @@
 
 ###
 
+<h2 align="left">My social media</h2>
+
+![https://www.instagram.com/m.arfaa21/](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@gatot_slepett](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://youtube.com/@gatot_slepet?si=rpOm3zBC_o49n1XT](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=red) ![https://discord.com/users/1084309463558799460](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2) ![https://arfa.ksug.com](https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white) 
+
+###
+
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript, PHP, and basic backend concepts<br>🎯 Goals: Become a fullstack developer and build useful web apps<br>🎲 Fun fact:  I spend more time debugging than coding</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
