@@ -18,7 +18,8 @@
 
 <h2 align="left">My social media</h2>
 
-![https://www.instagram.com/m.arfaa21/](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@gatot_slepett](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://youtube.com/@gatot_slepet?si=rpOm3zBC_o49n1XT](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=red) ![https://discord.com/users/1084309463558799460](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2) ![https://arfa.ksug.com](https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.arfaa21/) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@gatot_slepett) [![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@gatot_slepet) [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/1084309463558799460) [![Website](https://img.shields.io/badge/Website-111?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arfa.ksug.com)
+
 
 ###
 
