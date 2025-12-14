@@ -1,4 +1,4 @@
-![Muhammad arfa](poto/banner.png)
+![Muhammad arfa](poto/baner.png)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
