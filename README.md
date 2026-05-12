@@ -1,4 +1,4 @@
-![Muhammad arfa](poto/baner.png)
+![Muhammad arfa](poto/github-header-banner.png)
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
